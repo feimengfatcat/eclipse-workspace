@@ -20,5 +20,5 @@ def Three_digits(digits):
 
 
 if __name__ == '__main__':
-    print(Three_digits([1,2]))
+    print(Three_digits([1,2,4,9,8]))
 
